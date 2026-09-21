@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">ClinicaVidaPlus</string>
+    <string name="default_web_client_id" translatable="false">80375019306-avd1uo9u4nmrisl9onp0l4fom0ut7ovq.apps.googleusercontent.com</string>
+
+    <string-array name="especialidades_array">
+        <item>Selecione uma especialidade</item>
+        <item>Cardiologia</item>
+        <item>Pediatria</item>
+        <item>Ortopedia</item>
+        <item>Dermatologia</item>
+    </string-array>
+
+    <string-array name="medicos_array">
+        <item>Selecione um Médico</item>
+        <item>Dr. João Antonio (Cardiologia)</item>
+        <item>Dra. Maria Souza (Pediatria)</item>
+        <item>Dr. Carlos Silva (Ortopedia)</item>
+        <item>Dra. Helena Antunes (Dermatologia)</item>
+    </string-array>
+
+
+    <string name="index_titulo">Clínica Saúde e Cidadania</string>
+    <string name="index_btn_login">Login</string>
+    <string name="index_btn_cadastro">Cadastro</string>
+    <string name="index_btn_localizacao">Nossa localização</string>
+    <string name="index_endereco">R. Bernardino de Campos, 933 - Centro, Indaiatuba - SP</string>
+    <string name="index_rodape">© 2026 Clínica Médica Vida Plus</string>
+
+    <string name="index_cd_sair">Sair</string>
+    <string name="index_cd_logo">Logotipo da clínica</string>
+    <string name="index_cd_foto">Foto da clínica</string>
+
+    <string name="dialogo_sair_titulo">Deseja sair?</string>
+    <string name="dialogo_sair_msg">Você será desconectado do aplicativo.</string>
+    <string name="dialogo_btn_sim">Sim</string>
+    <string name="dialogo_btn_nao">Não</string>
+
+</resources>
